@@ -1,0 +1,746 @@
+<?xml version="1.0"?>
+<SituationKB version="1.0">
+<GlobalHypothesesClasses>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="31" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="SOUNDWAVE" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="32" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="SOUNDWAVE" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Badnews" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="33" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters />
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="34" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="35" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="36" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="37" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Badnews" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="3" type="1" generalizedExample="3">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="38" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook binary file1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook DLL1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="3" type="1" generalizedExample="3">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook DLL2" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="4" type="1" generalizedExample="4">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook DLL3" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="5" type="1" generalizedExample="5">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook DLL4" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="6" type="1" generalizedExample="6">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook DLL5" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="7" type="1" generalizedExample="7">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook Registry key1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="8" type="1" generalizedExample="8">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy Registry key1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="9" type="1" generalizedExample="9">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy data file1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="10" type="1" generalizedExample="10">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy exe file1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="11" type="1" generalizedExample="11">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy exe file2" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="39" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="40" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="connection1" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Bandook" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="41" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="connection1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="42" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook C2 server1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="43" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Bandook C2 server1" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="44" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Badnews" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Updater VBScript" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="45" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Badnews" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Keylogger" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="46" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Badnews" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Document Crawler" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="47" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>%temp%\SMB\ folder</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>MicroScMgmt.exe</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="3" type="1" generalizedExample="3">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>VMwareCplLauncher.exe</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="4" type="1" generalizedExample="4">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="48" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Badnews" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Document Crawler" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="49" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>%temp%\SMB\</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="50" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="window" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="51" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="window" />
+              <FormalParameterReference name="?S1" />
+              <OntologyString>WM_DEVICECHANGE</OntologyString>
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Badnews" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="52" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="window" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="Badnews" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="53" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="window" />
+              <FormalParameterReference name="?S1" />
+              <OntologyString>WM_DEVICECHANGE</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="54" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>T89.dat</OntologyString>
+              <FormalParameterReference name="?S2" />
+              <OntologyString>%temp%\</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="55" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>VMwareCplLauncher.exe</OntologyString>
+              <FormalParameterReference name="?S2" />
+              <OntologyString>%PROGRAMDATA%\Microsoft\DeviceSync\</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="56" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>MSBuild.exe</OntologyString>
+              <FormalParameterReference name="?S2" />
+              <OntologyString>%PROGRAMDATA%\Microsoft\DeviceSync\</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>up.exe</OntologyString>
+              <FormalParameterReference name="?S2" />
+              <OntologyString>%temp%\</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="57" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Badnews" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="58" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>axroot.com</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="2">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?S1" />
+              <OntologyString>http://feeds.rapidfeeds.com/81913/</OntologyString>
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="59" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="Badnews" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="60" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="61" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="physical CPU" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="MacSpy" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+          <ConditionExample index="2" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="logical core" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="MacSpy" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="62" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="physical CPU" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="63" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="logical core" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="64" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="65" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="66" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="memory" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="67" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="68" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="MacSpy" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+<GlobalHypothesisClass_AdditionalInfo>
+      <GlobalHypothesisClassReference kbPartName="User" index="69" />
+      <LearnableConditionExamples>
+        <ListOfExamples>
+          <ConditionExample index="1" type="1" generalizedExample="1">
+            <ConstantInstantiatedFormalParameters>
+              <FormalParameterReference name="?O1" />
+              <InstanceReference name="public access" />
+              <FormalParameterReference name="?O2" />
+              <InstanceReference name="unauthenticated user" />
+            </ConstantInstantiatedFormalParameters>
+          </ConditionExample>
+        </ListOfExamples>
+      </LearnableConditionExamples>
+    </GlobalHypothesisClass_AdditionalInfo>
+</GlobalHypothesesClasses>
+<SituationExamples>
+<SituationExample version="1.0" index="0">
+      <NLPattern>
+        <Fragments>
+          <String>suspicious behavior on host computer </String>
+          <OntologyEntity>
+            <OntologyString>10.10.1.2</OntologyString>
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <NLPattern>
+        <Fragments />
+      </NLPattern>
+    </SituationExample>
+</SituationExamples>
+<IntelligenceQuestionExamples>
+<IntelligenceQuestionExample version="1.1" index="0" main="false">
+      <NLPattern>
+        <Fragments>
+          <String>suspicious behavior involves technique of </String>
+          <OntologyEntity>
+            <ConceptReference name="collection mechanism" />
+          </OntologyEntity>
+        </Fragments>
+      </NLPattern>
+      <SituationExampleReference version="1.0" kbPartName="Scen" index="0" />
+    </IntelligenceQuestionExample>
+</IntelligenceQuestionExamples>
+<HypothesisExamples>
+<HypothesisExample version="1.0" index="0" negation="false">
+      <NLPattern>
+        <Fragments>
+          <String>suspicious behavior involves </String>
+          <OntologyEntity>
+            <InstanceReference name="audio capture" />
+          </OntologyEntity>
+          <String> technique</String>
+        </Fragments>
+      </NLPattern>
+      <IntelligenceQuestionExampleReference version="1.1" kbPartName="Scen" index="0" />
+      <ContextHypothesisClassReferenceForGlobalHypothesis index="0">
+        <GlobalHypothesisClassReference kbPartName="User" index="31" />
+      </ContextHypothesisClassReferenceForGlobalHypothesis>
+      <ConstantInstantiatedFormalParameters />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="4" negation="false">
+      <NLPattern>
+        <Fragments>
+          <String>suspicious behavior involves  </String>
+          <OntologyEntity>
+            <InstanceReference name="automated collection" />
+          </OntologyEntity>
+          <String> technique</String>
+        </Fragments>
+      </NLPattern>
+      <IntelligenceQuestionExampleReference version="1.1" kbPartName="Scen" index="0" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="5" negation="false">
+      <NLPattern>
+        <Fragments>
+          <String>suspicious behavior involves  </String>
+          <OntologyEntity>
+            <InstanceReference name="clipboard data" />
+          </OntologyEntity>
+          <String> technique</String>
+        </Fragments>
+      </NLPattern>
+      <IntelligenceQuestionExampleReference version="1.1" kbPartName="Scen" index="0" />
+    </HypothesisExample>
+<HypothesisExample version="1.0" index="6" negation="false">
+      <NLPattern>
+        <Fragments>
+          <String>suspicious behavior involves </String>
+          <OntologyEntity>
+            <InstanceReference name="data from cloud storage object" />
+          </OntologyEntity>
+          <String> technique</String>
+        </Fragments>
+      </NLPattern>
+      <IntelligenceQuestionExampleReference version="1.1" kbPartName="Scen" index="0" />
+    </HypothesisExample>
+</HypothesisExamples>
+<EvidenceAssociationMap>
+    <hypothesisEvidenceAssociationList />
+  </EvidenceAssociationMap>
+</SituationKB>
